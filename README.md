@@ -28,4 +28,4 @@ python main.py --help
 # Result
 The result of the spiral sample.
 
-![](https://github.com/veliglmz/simple-diffusion-model/blob/main/plot.png)
+![](https://github.com/veliglmz/simple-diffusion-model/blob/master/plot.png)
