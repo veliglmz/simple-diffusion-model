@@ -1,5 +1,5 @@
 # Python Implementation of a Simple Diffusion Model
-This code is an unofficial Python implementation of [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239). I trained a simple model with a generated spiral train data. I tested it using Gaussian distribution.
+This code is an unofficial Python implementation of [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239). I trained a simple model with a generated spiral train data. I tested it using uniform distribution on the interval [0, 1).
 
 ## Installation
 * Clone the repository.
